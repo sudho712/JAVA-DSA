@@ -1,4 +1,5 @@
-package TopoLogical_sort;
+package Tological_Sort;
+
 
 import java.util.ArrayList;
 public class Vertex {
@@ -14,4 +15,5 @@ public class Vertex {
         this.name=name;
     }
 }
+
 

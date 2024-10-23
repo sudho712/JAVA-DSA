@@ -1,4 +1,4 @@
-package TopoLogical_sort;
+package Tological_Sort;
 
 import java.util.ArrayList;
 
@@ -31,5 +31,20 @@ public class mainClass {
 
         // Print the adjacency list
         ob.printDirectedList();
+        ob.TS();
+        
     }
+    
 }
+}
+
+/* 
+ *  A       B
+ *  |     / |
+ *  C _ /   D    
+ *  |       /
+ *  E      / 
+ *    \ F
+ *     /    \G
+ *    H
+ */
