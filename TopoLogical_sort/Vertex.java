@@ -1,4 +1,4 @@
-package Tological_Sort;
+package TopoLogical_sort;
 
 
 import java.util.ArrayList;

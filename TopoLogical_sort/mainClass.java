@@ -1,4 +1,4 @@
-package Tological_Sort;
+package TopoLogical_sort;
 
 import java.util.ArrayList;
 
@@ -36,7 +36,7 @@ public class mainClass {
     }
     
 }
-}
+
 
 /* 
  *  A       B
